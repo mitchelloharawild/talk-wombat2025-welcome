@@ -2,10 +2,10 @@
 
 <!-- README.md is generated from README.qmd. Please edit that file -->
 
-# IIF Workshop on Open Source Forecasting - Welcome
+# WOMBAT 2025 - AV Slides
 
-Slides and notes for a welcome presentation to the IIF OSF workshop in
-Beijing, China (26th June 2025).
+Slides and notes for the welcome/AV slides of WOMBAT 2025 in Melbourne,
+Australia (30th September 2025).
 
 <!-- A recording of this presentation is available on YouTube here: <https://www.youtube.com/watch?v=> -->
 
@@ -13,25 +13,14 @@ Beijing, China (26th June 2025).
 
 #### Abstract
 
-In the field of forecasting, the use of open-source forecasting software
-has become increasingly prevalent throughout the entire forecasting
-workflow. These tools have played a pivotal role in democratizing access
-to advanced forecasting capabilities. While forecasters often switch
-between forecasting tools as needed, the development of these tools
-typically occurs in relative isolation. To improve collaboration across
-forecasting software, we are delighted to propose an IIF-sponsored
-workshop that unites developers to share and discuss the latest ideas in
-forecasting software.
-
-#### Structure
-
-- About
-- Topics
-- Schedule
-- Code of Conduct
-- Sponsors
-- Committee
+The annual WOMBAT workshop brings together analysts from academia,
+industry and government to learn and discuss new open source tools for
+business analytics and data science. The theme of this year’s event is
+**designing data driven discoveries**, which will feature tutorials and
+talks on statistical software, research collaboration, and impactful
+data analysis. You should come if you are an analytics professional, or
+leading a team of analysts or a developer of new open source tools.
 
 ### Format
 
-- 5 minutes
+- 15 minutes
