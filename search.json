@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Welcome! 👋\n\nWe acknowledge the Traditional Owners of the land on which we gather, the Wurundjeri people of the Kulin Nation.\nWe pay our respects to Elders past and present, and recognise their continuing connection to Country, culture, and community here in Naarm (Melbourne).\n\n\n\n\n\n\n\n\nLearning together\n\n\n\nWombat in the Woi Wurrung language is “warin”."
+  },
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Safety 🛟\n\n\n\n\n\n\n\nEvacutation procedure\n\n\nTBC\n\n\n\n\n\n\n\n\n\n\n\nCode of Conduct (CoC)\n\n\nIn short: be kind, respectful, and considerate.\n(full code of conduct is available on our website)\nAlert the CoC response team of any issues 👋\n\n\n\n\n\n\n\n\n\n\n\nGetting help\n\n\nOrganisers are here to help!\nIdentify organisers with green dots on their name tag.\nEmail the committee: buseco-ebs.wombat@monash.edu"
+  },
+  {
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Social media 📣\n\n\n\n\n\n\n\nHashtag #WOMBAT2025\n\n\nShare your experience online with hashtag #WOMBAT2025\n\n\n\n\n\n\n\n\n\n\n\nEvent recording\n\n\nThis event is being recorded, and presentations will be published online on YouTube afterwards.\nPhotos and videos will also be taken during the event.\n\n\n\n\n\n\n\n\n\n\n\nOpt-out of recording\n\n\nNot keen on social media? Photo shy? No worries!\nOpt-out by adding a red dot to your name tag."
+  },
+  {
+    "objectID": "index.html#section-4",
+    "href": "index.html#section-4",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Information online\n\n\n\n\n🌐 Workshop website\n\n\nSee the schedule, speakers, and more online.\nhttps://wombat2025.numbat.space/\n\n\n\n\n\n\n\n\n🛜 Wi-Fi access\n\n\nGet online with:\n\neduroam (for students / academics)\nMonash Guest Wi-Fi (for everyone else)\n\nhttps://www.monash.edu/esolutions/network/guest-wi-fi"
+  },
+  {
+    "objectID": "index.html#section-6",
+    "href": "index.html#section-6",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Nicola Rennie\n\n\n\n\n\nDesigning for decision-making: How to build effective data visualisations\n\n\nData visualisation can be a very efficient method of identifying patterns in data and communicating findings to broad audiences. Good data visualisation requires appreciation and careful consideration of the technical aspects of data presentation. But it also involves a creative element. Authorial choices are made about the “story” we want to tell, and design decisions are driven by the need to convey that story most effectively to our audience. Software systems use default settings for most graphical elements. However, each visualisation has its own story to tell, and so we must actively consider and choose settings for the visualisation we are building. In this talk, Nicola will showcase why you should visualise data, present some guidelines for making more effective charts, before discussing examples of good and not so good charts."
+  },
+  {
+    "objectID": "index.html#section-7",
+    "href": "index.html#section-7",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Nicola Rennie\n\n\n\n\n\nDesigning for decision-making: How to build effective data visualisations\n\n\nData visualisation can be a very efficient method of identifying patterns in data and communicating findings to broad audiences. Good data visualisation requires appreciation and careful consideration of the technical aspects of data presentation. But it also involves a creative element. Authorial choices are made about the “story” we want to tell, and design decisions are driven by the need to convey that story most effectively to our audience. Software systems use default settings for most graphical elements. However, each visualisation has its own story to tell, and so we must actively consider and choose settings for the visualisation we are building. In this talk, Nicola will showcase why you should visualise data, present some guidelines for making more effective charts, before discussing examples of good and not so good charts."
+  },
+  {
+    "objectID": "index.html#section-8",
+    "href": "index.html#section-8",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "James Goldie\n\n\n\n\n\nClosing the scrollytelling gap with Closeread\n\n\nScrollytelling is an innovative way to tell data-driven stories, but it often demands sophisticated data visualisation engineering skills and budgets beyond individual researchers and small newsrooms. Closeread makes scrollytelling accessible and easy for researchers and analysts using their existing Quarto authoring skills.\n​In this talk, James discusses some of the factors that motivated Closeread’s design, the first scrollytelling contest with Posit, and new features on the horizon, including scrolling video support and better integration with R and Python tools."
+  },
+  {
+    "objectID": "index.html#section-9",
+    "href": "index.html#section-9",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Jenny Richmond\n\n\n\n\n\nRethinking data science education in the age of genAI\n\n\nGenerative AI tools, like ChatGPT, haven’t necessarily created new challenges in data science education. Rather, the availability and rapidly growing capabilities of these tools have exposed weaknesses in learning design and assessment that educators have been ignoring for a while.\nIn this talk, I will draw on my experience in teaching psychology students about computational reproducibility and the value of R-based data workflows. I will argue for the need to rethink what learning to learn looks like and talk about how we might reframe assessment as the process of gathering evidence that learning has occurred.\nThere is no avoiding the fact that students now need to learn how to learn alongside Generative AI. Data science educators can help them by designing learning experiences that build self-regulated learning skills and normalise what real learning feels like."
+  },
+  {
+    "objectID": "index.html#section-10",
+    "href": "index.html#section-10",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Michael Lydeamore\n\n\n\n\n\nWhen laziness leads to innovation: making things you didn’t know you needed\n\n\nNothing gives me greater joy than building little tools to make my life easier — even if they take ten times longer to make than they’ll ever save. In this talk I’ll share a few of these creations and the mindset behind them: the teleport GitHub Action, Comment Viewer Positron extension, Unilur Quarto filter for generating assignment solutions, and a sneak peek at a gamified teaching tool for ggplot2. Along the way, I’ll argue that sometimes it’s not the smartest hire you need, but the laziest one — a sentiment probably attributed to Bill Gates (though I’ve never bothered to check)."
+  },
+  {
+    "objectID": "index.html#section-11",
+    "href": "index.html#section-11",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Floyd Everest\n\n\n\n\n\nTidy analysis of preferential votes with prefio\n\n\nPreferential datasets usually represent rankings for an individual voter across multiple columns or rows in a rectangular format. This can make working with these datasets cumbersome and unintuitive.\nThis talk will introduce prefio, an R package that lets you work with preferences in a tidy way without spanning multiple rows or columns, while providing convenient operations for manipulating preferential data.\nThere will be an interactive component to the talk, so get ready to cast some votes!"
+  },
+  {
+    "objectID": "index.html#section-12",
+    "href": "index.html#section-12",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Harriet Mason\n\n\n\n\n\nVisualising Uncertainty with ggdibbler\n\n\nAdding uncertainty representation in a data visualisation can help in decision-making. There is an existing wealth of software designed to visualise uncertainty as a distribution or probability. These visualisations are excellent for helping understand the uncertainty in our data, but they may not be effective at incorporating uncertainty to prevent false conclusions. Successfully preventing false conclusions requires us to communicate the estimate and its error as a single “validity of signal” variable, and doing so proves to be difficult with current methods. In this talk, we introduce ggdibbler, a ggplot extension that makes it easier to visualise uncertainty in plots for the purposes of preventing these “false signals”. We illustrate how ggdibbler can be seamlessly integrated into existing visualisation workflows and highlight the effect of these changes by showing the alternative visualisations ggdibbler produces for a choropleth map."
+  },
+  {
+    "objectID": "index.html#section-13",
+    "href": "index.html#section-13",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "In conversation: Research Software\n\n\nResearch software engineering, open source software, reproducibility research – what do these terms really mean, and what’s special about creating ‘statistical software’ and R packages? In this conversation with Professor Rob Hyndman, and Dr. Nick Tierney, we attempt to demystify and highlight many ways that software design and open source packages can contribute to the development, dissemination and accessibility of data-driven analysis.\n\n\n\n\n\n\n\nCynthia Huang\nHost\n\n\n\nRob Hyndman\nSpeaker\n\n\n\nNicholas Tierney\nSpeaker"
+  },
+  {
+    "objectID": "index.html#section-14",
+    "href": "index.html#section-14",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Saras Windecker\n\n\n\n\n\nPiloting peer code review in a research consortium community of practice\n\n\nCode-based research offers greater flexibility than point-and-click statistical software but is vulnerable to a range of errors that are often not addressed through traditional peer review, which rarely examines the underlying code. Formal code review poses practical challenges, including the need for time, expertise, and a supportive environment, particularly given the complexity of analyses and the diverse skills required. To address these challenges, the Australia-Aotearoa Consortium for Epidemic Forecasting & Analytics (ACEFA) is piloting a peer code review program among its members, who produce short-term epidemic forecasts for Australia and New Zealand. The aims are to verify that models correctly implement their documented methods, identify areas for improvement, promote good coding practices, and familiarize researchers with code review as a valuable tool for scientific rigor. The program’s effectiveness will be evaluated through participant surveys, with the intent of refining the process and sharing it as a model for others in the research community."
+  },
+  {
+    "objectID": "index.html#section-15",
+    "href": "index.html#section-15",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Tyler Reysenbach\n\n\n\n\n\nBuilding a new data team – balancing quick wins and long term investments\n\n\nEvery new data team faces the same dilemma: stakeholders expect immediate results while the team knows that achieving long-term impact needs investment in its capabilities. Should they build that reporting dashboard everyone’s asking for, or spend three months building a new dataset that could inform future priorities? If they choose the quick win, the team risks being pigeonholed into a reporting team, unable to focus on longer-term projects, with more and more regular products requiring maintenance. Focus on building capacity, and the team might lose organisational support before they can prove their value, limiting their impact before they could even get going.\nDrawing on experience from working in the Central Analytics Hub at the Department of Prime Minister and Cabinet during the pandemic and working to help address capability gaps to better inform migration policy reform, this talk will explore the practical realities of navigating these tensions. I’ll share stories from both experiences—from delivering urgent daily briefings while building the necessary capability to pivot to changing priorities, to establishing credibility while building the infrastructure needed to inform pressing policy priorities.\nThis talk will offer honest reflections on the messy reality of building data teams in government, providing practical insights for anyone wrestling with similar challenges."
+  },
+  {
+    "objectID": "index.html#section-16",
+    "href": "index.html#section-16",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Ben Harrap\n\n\n\n\n\nDesigning data infrastructure where people come first\n\n\nThe Mayi Kuwayu Study is a longitudinal survey and the largest national study of Aboriginal and Torres Strait Islander culture, health and wellbeing. I joined the study team last year and have been redeveloping the data pipeline to be more transparent, reproducible, and easier to maintain. My original plan was to incorporate best practices, such as using targets and renv for ensuring reproducibility and pointblank and testthat for validation and testing, as well as writing nice code.\nIt was a good plan, but it didn’t fully consider the people in the study team. Being able to run code from start to finish without error might be reproducible in a technical sense, but is someone actually reproducing it if they don’t understand what the code is doing? Code is only reproducible so long as it’s maintainable. Since I’m the only experienced R-user (for now), each additional package I use is a package someone else has to understand and runs the risk of making the code less reproducible.\nIn this session I’ll be talking about:\n\nthe Mayi Kuwayu Study and team context\ndevelopment of the data pipeline\nthe role people played in design decisions\nusing the development as an opportunity to upskill my team"
+  },
+  {
+    "objectID": "index.html#organising-committee",
+    "href": "index.html#organising-committee",
+    "title": "WOMBAT 2025",
+    "section": "Organising Committee",
+    "text": "Organising Committee\n\n\n\nCynthia Huang\nGeneral chair (workshop)\n\n\n\nMitchell O’Hara-Wild\nGeneral chair (tutorials)\n\n\n\nHannah Comiskey\nVisitor logistics\n\n\n\nJanith Wanniarachchi\nWebmaster\n\n\n\nElio Campitelli\nSocial media\n\n\n\nMaliny Po\nMarketing and Graphics\n\n\n\nKrisanat Anukarnsakulchularp\nVolunteer lead"
+  }
+]
