@@ -1,0 +1,37 @@
+
+
+<!-- README.md is generated from README.qmd. Please edit that file -->
+
+# IIF Workshop on Open Source Forecasting - Welcome
+
+Slides and notes for a welcome presentation to the IIF OSF workshop in
+Beijing, China (26th June 2025).
+
+<!-- A recording of this presentation is available on YouTube here: <https://www.youtube.com/watch?v=> -->
+
+<!-- [![](preview.jpg)](https://www.youtube.com/watch?v=) -->
+
+#### Abstract
+
+In the field of forecasting, the use of open-source forecasting software
+has become increasingly prevalent throughout the entire forecasting
+workflow. These tools have played a pivotal role in democratizing access
+to advanced forecasting capabilities. While forecasters often switch
+between forecasting tools as needed, the development of these tools
+typically occurs in relative isolation. To improve collaboration across
+forecasting software, we are delighted to propose an IIF-sponsored
+workshop that unites developers to share and discuss the latest ideas in
+forecasting software.
+
+#### Structure
+
+- About
+- Topics
+- Schedule
+- Code of Conduct
+- Sponsors
+- Committee
+
+### Format
+
+- 5 minutes

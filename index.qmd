@@ -1,0 +1,617 @@
+---
+from: markdown+emoji
+execute: 
+  cache: true
+format: 
+  letterbox-revealjs:
+    theme: custom.scss
+    progress: false
+    menu: false
+    width: 1280
+    height: 720
+    preload-iframes: true
+filters:
+  - custom-callouts
+callout-appearance: simple
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+#| include: false
+```
+
+## {background-image="resources/title.png" background-size="cover" background-repeat="no-repeat"}
+
+
+## {}
+
+::: columns
+::: {.column width="40%"}
+:::
+::: {.column width="60%"}
+
+### Welcome! :wave:
+
+::: fragment
+
+We acknowledge the Traditional Owners of the land on which we gather, the Wurundjeri people of the Kulin Nation. 
+
+We pay our respects to Elders past and present, and recognise their continuing connection to Country, culture, and community here in Naarm (Melbourne).
+
+:::
+
+::: {.callout-tip .fragment .fade-up}
+## Learning together
+
+::: fragment
+
+*Wombat* in the Woi Wurrung language is **"warin"**.
+
+:::
+
+:::
+
+:::
+:::
+
+![](backgrounds/michael-jerrard-mnHs4boXT_0-unsplash.jpg){.image-left}
+
+
+## {}
+
+::: columns
+::: {.column width="40%"}
+:::
+::: {.column width="60%"}
+
+### Safety 🛟
+
+::: {.callout-important .fragment .fade-up}
+## Evacutation procedure
+
+TBC
+:::
+
+::: {.callout-note .fragment .fade-up}
+## Code of Conduct (CoC)
+
+In short: be kind, respectful, and considerate.
+
+*(full code of conduct is available on our website)*
+
+Alert the CoC response team of any issues :wave:
+:::
+
+::: {.callout-tip .fragment .fade-up}
+## Getting help
+
+Organisers are here to help!
+
+Identify organisers with green dots on their name tag.
+
+Email the committee: <buseco-ebs.wombat@monash.edu>
+:::
+
+
+:::
+:::
+
+![](backgrounds/michael-jerrard-mnHs4boXT_0-unsplash.jpg){.image-left}
+
+
+## {}
+
+::: columns
+::: {.column width="40%"}
+:::
+::: {.column width="60%"}
+
+### Social media 📣
+
+::: {.callout-tip .fragment}
+### Hashtag #WOMBAT2025
+
+Share your experience online with hashtag `#WOMBAT2025`
+:::
+
+::: {.callout-note .fragment}
+### Event recording
+
+This event is being recorded, and presentations will be published online on YouTube afterwards.
+
+Photos and videos will also be taken during the event.
+
+:::
+
+::: {.callout-important .fragment}
+### Opt-out of recording
+
+Not keen on social media? Photo shy? No worries!
+
+Opt-out by adding a red dot to your name tag.
+
+:::
+
+
+:::
+:::
+
+![](backgrounds/michael-jerrard-mnHs4boXT_0-unsplash.jpg){.image-left}
+
+## {}
+
+::: columns
+::: {.column width="40%"}
+:::
+::: {.column width="60%"}
+
+### Information online
+
+::: {.callout-note .fragment .fade-up icon="false"}
+## 🌐 Workshop website
+
+See the schedule, speakers, and more online.
+
+<https://wombat2025.numbat.space/>
+:::
+
+::: {.callout-tip .fragment .fade-up icon="false"}
+## 🛜 Wi-Fi access
+
+Get online with:
+
+* `eduroam` (for students / academics)
+* `Monash Guest Wi-Fi` (for everyone else)
+
+<https://www.monash.edu/esolutions/network/guest-wi-fi>
+:::
+
+
+:::
+:::
+
+![](backgrounds/michael-jerrard-mnHs4boXT_0-unsplash.jpg){.image-left}
+
+
+## {background-iframe="https://wombat2025.numbat.space/program/schedule/"}
+
+
+## {.presentation background-iframe="anim/particles.html"}
+
+::: {.columns .talk}
+
+::: {.column width="40%"}
+
+::: {.presenter}
+
+![](https://conf.nectric.com.au/media/avatars/QYGAW3_P1qrP6C.jpg)
+
+Nicola Rennie
+
+:::
+
+:::
+
+::: {.column width="60%"}
+
+::: {.callout appearance="default"}
+## Designing for decision-making: How to build effective data visualisations
+
+Data visualisation can be a very efficient method of identifying patterns in data and communicating findings to broad audiences. Good data visualisation requires appreciation and careful consideration of the technical aspects of data presentation. But it also involves a creative element. Authorial choices are made about the “story” we want to tell, and design decisions are driven by the need to convey that story most effectively to our audience. Software systems use default settings for most graphical elements. However, each visualisation has its own story to tell, and so we must actively consider and choose settings for the visualisation we are building. In this talk, Nicola will showcase why you should visualise data, present some guidelines for making more effective charts, before discussing examples of good and not so good charts.
+
+:::
+:::
+
+:::
+
+
+## {.presentation background-iframe="anim/particles.html"}
+
+::: {.columns .talk}
+
+::: {.column width="40%"}
+
+::: {.presenter}
+
+![](https://conf.nectric.com.au/media/avatars/QYGAW3_P1qrP6C.jpg)
+
+Nicola Rennie
+
+:::
+
+:::
+
+::: {.column width="60%"}
+
+::: {.callout appearance="default"}
+## Designing for decision-making: How to build effective data visualisations
+
+Data visualisation can be a very efficient method of identifying patterns in data and communicating findings to broad audiences. Good data visualisation requires appreciation and careful consideration of the technical aspects of data presentation. But it also involves a creative element. Authorial choices are made about the “story” we want to tell, and design decisions are driven by the need to convey that story most effectively to our audience. Software systems use default settings for most graphical elements. However, each visualisation has its own story to tell, and so we must actively consider and choose settings for the visualisation we are building. In this talk, Nicola will showcase why you should visualise data, present some guidelines for making more effective charts, before discussing examples of good and not so good charts.
+
+:::
+:::
+
+:::
+
+
+## {.presentation background-iframe="anim/particles.html"}
+
+::: {.columns .talk}
+
+::: {.column width="40%"}
+
+::: {.presenter}
+
+![](https://conf.nectric.com.au/media/avatars/Y3TULP_D7o6Ucl.jpg)
+
+James Goldie
+
+:::
+
+:::
+
+::: {.column width="60%"}
+
+::: {.callout appearance="default"}
+## Closing the scrollytelling gap with Closeread
+
+Scrollytelling is an innovative way to tell data-driven stories, but it often demands sophisticated data visualisation engineering skills and budgets beyond individual researchers and small newsrooms. Closeread makes scrollytelling accessible and easy for researchers and analysts using their existing Quarto authoring skills.
+
+​In this talk, James discusses some of the factors that motivated Closeread's design, the first scrollytelling contest with Posit, and new features on the horizon, including scrolling video support and better integration with R and Python tools.
+
+:::
+:::
+
+:::
+
+## {.presentation background-iframe="anim/particles.html"}
+
+::: {.columns .talk}
+
+::: {.column width="40%"}
+
+::: {.presenter}
+
+![](https://conf.nectric.com.au/media/avatars/PRGEJ3_FJJHXPA.png)
+
+Jenny Richmond
+
+:::
+
+:::
+
+::: {.column width="60%"}
+
+::: {.callout appearance="default"}
+## Rethinking data science education in the age of genAI
+
+Generative AI tools, like ChatGPT, haven’t necessarily created new challenges in data science education. Rather, the availability and rapidly growing capabilities of these tools have exposed weaknesses in learning design and assessment that educators have been ignoring for a while.
+
+In this talk, I will draw on my experience in teaching psychology students about computational reproducibility and the value of R-based data workflows. I will argue for the need to rethink what learning to learn looks like and talk about how we might reframe assessment as the process of gathering evidence that learning has occurred.
+
+There is no avoiding the fact that students now need to learn how to learn alongside Generative AI. Data science educators can help them by designing learning experiences that build self-regulated learning skills and normalise what real learning feels like.
+
+:::
+:::
+
+:::
+
+## {.presentation background-iframe="anim/particles.html"}
+
+::: {.columns .talk}
+
+::: {.column width="40%"}
+
+::: {.presenter}
+
+![](https://conf.nectric.com.au/media/avatars/7HGSUA_AIcNqAF.jpeg)
+
+Michael Lydeamore
+
+:::
+
+:::
+
+::: {.column width="60%"}
+
+::: {.callout appearance="default"}
+## When laziness leads to innovation: making things you didn't know you needed
+
+Nothing gives me greater joy than building little tools to make my life easier — even if they take ten times longer to make than they’ll ever save. In this talk I’ll share a few of these creations and the mindset behind them: the teleport GitHub Action, Comment Viewer Positron extension, Unilur Quarto filter for generating assignment solutions, and a sneak peek at a gamified teaching tool for ggplot2. Along the way, I’ll argue that sometimes it’s not the smartest hire you need, but the laziest one — a sentiment probably attributed to Bill Gates (though I’ve never bothered to check).
+
+:::
+:::
+
+:::
+
+## {.presentation background-iframe="anim/particles.html"}
+
+::: {.columns .talk}
+
+::: {.column width="40%"}
+
+::: {.presenter}
+
+![](https://conf.nectric.com.au/media/avatars/ZKF7NV_MmdVwVJ.jpg)
+
+Floyd Everest
+
+:::
+
+:::
+
+::: {.column width="60%"}
+
+::: {.callout appearance="default"}
+## Tidy analysis of preferential votes with prefio
+
+Preferential datasets usually represent rankings for an individual voter across multiple columns or rows in a rectangular format. This can make working with these datasets cumbersome and unintuitive.
+
+This talk will introduce prefio, an R package that lets you work with preferences in a tidy way without spanning multiple rows or columns, while providing convenient operations for manipulating preferential data.
+
+There will be an interactive component to the talk, so get ready to cast some votes!
+
+:::
+:::
+
+:::
+
+## {.presentation background-iframe="anim/particles.html"}
+
+::: {.columns .talk}
+
+::: {.column width="40%"}
+
+::: {.presenter}
+
+![](https://conf.nectric.com.au/media/avatars/9BMJWP_1VQl68B.jpg)
+
+Harriet Mason
+
+:::
+
+:::
+
+::: {.column width="60%"}
+
+::: {.callout appearance="default"}
+## Visualising Uncertainty with ggdibbler
+
+Adding uncertainty representation in a data visualisation can help in decision-making. There is an existing wealth of software designed to visualise uncertainty as a distribution or probability. These visualisations are excellent for helping understand the uncertainty in our data, but they may not be effective at incorporating uncertainty to prevent false conclusions. Successfully preventing false conclusions requires us to communicate the estimate and its error as a single “validity of signal” variable, and doing so proves to be difficult with current methods. In this talk, we introduce ggdibbler, a ggplot extension that makes it easier to visualise uncertainty in plots for the purposes of preventing these “false signals”. We illustrate how ggdibbler can be seamlessly integrated into existing visualisation workflows and highlight the effect of these changes by showing the alternative visualisations ggdibbler produces for a choropleth map.
+
+:::
+:::
+
+:::
+
+## {background-iframe="anim/particles.html"}
+
+
+::: {.columns .talk}
+::: {.column width="60%"}
+
+::: {.callout appearance="default"}
+## In conversation: Research Software
+
+Research software engineering, open source software, reproducibility research -- what do these terms really mean, and what's special about creating 'statistical software' and R packages? In this conversation with Professor Rob Hyndman, and Dr. Nick Tierney, we attempt to demystify and highlight many ways that software design and open source packages can contribute to the development, dissemination and accessibility of data-driven analysis.
+
+:::
+:::
+
+::: {.column width="40%"}
+
+::: speakers
+::: {.person-card}
+
+![](https://conf.nectric.com.au/media/avatars/D7JA8C_Z8ygNTF.jpeg)
+
+**Cynthia Huang**
+
+Host
+
+:::
+
+::: {.person-card}
+
+![](https://conf.nectric.com.au/media/avatars/9RABY7_Wl7Ou4z.png)
+
+**Rob Hyndman**
+
+Speaker
+
+:::
+
+::: {.person-card}
+
+![](https://conf.nectric.com.au/media/avatars/FLUHHT_FJdojaL.jpeg)
+
+**Nicholas Tierney**
+
+Speaker
+
+:::
+:::
+
+:::
+:::
+
+
+## {.presentation background-iframe="anim/particles.html"}
+
+::: {.columns .talk}
+
+::: {.column width="40%"}
+
+::: {.presenter}
+
+![](https://conf.nectric.com.au/media/avatars/GJSC9S_ycWEdyi.jpg)
+
+Saras Windecker
+
+:::
+
+:::
+
+::: {.column width="60%"}
+
+::: {.callout appearance="default"}
+## Piloting peer code review in a research consortium community of practice
+
+Code-based research offers greater flexibility than point-and-click statistical software but is vulnerable to a range of errors that are often not addressed through traditional peer review, which rarely examines the underlying code. Formal code review poses practical challenges, including the need for time, expertise, and a supportive environment, particularly given the complexity of analyses and the diverse skills required. To address these challenges, the Australia-Aotearoa Consortium for Epidemic Forecasting & Analytics (ACEFA) is piloting a peer code review program among its members, who produce short-term epidemic forecasts for Australia and New Zealand. The aims are to verify that models correctly implement their documented methods, identify areas for improvement, promote good coding practices, and familiarize researchers with code review as a valuable tool for scientific rigor. The program's effectiveness will be evaluated through participant surveys, with the intent of refining the process and sharing it as a model for others in the research community.
+
+:::
+:::
+
+:::
+
+
+## {.presentation background-iframe="anim/particles.html"}
+
+::: {.columns .talk}
+
+::: {.column width="40%"}
+
+::: {.presenter}
+
+![](https://conf.nectric.com.au/media/avatars/SZNM8P_ye4lfSk.png)
+
+Tyler Reysenbach
+
+:::
+
+:::
+
+::: {.column width="60%"}
+
+::: {.callout appearance="default"}
+## Building a new data team – balancing quick wins and long term investments
+
+Every new data team faces the same dilemma: stakeholders expect immediate results while the team knows that achieving long-term impact needs investment in its capabilities. Should they build that reporting dashboard everyone's asking for, or spend three months building a new dataset that could inform future priorities? If they choose the quick win, the team risks being pigeonholed into a reporting team, unable to focus on longer-term projects, with more and more regular products requiring maintenance. Focus on building capacity, and the team might lose organisational support before they can prove their value, limiting their impact before they could even get going.
+
+Drawing on experience from working in the Central Analytics Hub at the Department of Prime Minister and Cabinet during the pandemic and working to help address capability gaps to better inform migration policy reform, this talk will explore the practical realities of navigating these tensions. I'll share stories from both experiences—from delivering urgent daily briefings while building the necessary capability to pivot to changing priorities, to establishing credibility while building the infrastructure needed to inform pressing policy priorities.
+
+This talk will offer honest reflections on the messy reality of building data teams in government, providing practical insights for anyone wrestling with similar challenges.
+
+:::
+:::
+
+:::
+
+
+## {.presentation background-iframe="anim/particles.html"}
+
+::: {.columns .talk}
+
+::: {.column width="40%"}
+
+::: {.presenter}
+
+![](https://conf.nectric.com.au/media/avatars/ANX3EW_o3bpwTY.jpg)
+
+Ben Harrap
+
+:::
+
+:::
+
+::: {.column width="60%"}
+
+::: {.callout appearance="default"}
+## Designing data infrastructure where people come first
+
+The Mayi Kuwayu Study is a longitudinal survey and the largest national study of Aboriginal and Torres Strait Islander culture, health and wellbeing. I joined the study team last year and have been redeveloping the data pipeline to be more transparent, reproducible, and easier to maintain. My original plan was to incorporate best practices, such as using targets and renv for ensuring reproducibility and pointblank and testthat for validation and testing, as well as writing nice code.
+
+It was a good plan, but it didn't fully consider the people in the study team. Being able to run code from start to finish without error might be reproducible in a technical sense, but is someone actually reproducing it if they don't understand what the code is doing? Code is only reproducible so long as it's maintainable. Since I'm the only experienced R-user (for now), each additional package I use is a package someone else has to understand and runs the risk of making the code less reproducible.
+
+In this session I'll be talking about:
+
+*  the Mayi Kuwayu Study and team context
+*  development of the data pipeline
+*  the role people played in design decisions
+*  using the development as an opportunity to upskill my team
+
+:::
+:::
+
+:::
+
+<!-- CH: Closing discussion slides -->
+
+## Organising Committee
+
+::: persons
+
+::: person-card
+
+![](https://avatars.githubusercontent.com/u/29718979?v=4)
+
+### Cynthia Huang
+
+General chair (workshop)
+
+:::
+
+::: {.person-card}
+
+![](https://avatars.githubusercontent.com/u/16127127?v=4)
+
+### Mitchell O'Hara-Wild
+
+General chair (tutorials)
+
+:::
+
+::: person-card
+
+![](https://avatars.githubusercontent.com/u/56960311?v=4)
+
+### Hannah Comiskey
+
+Visitor logistics
+
+:::
+
+::: person-card
+
+![](https://avatars.githubusercontent.com/u/8599256?v=4)
+
+### Janith Wanniarachchi
+
+Webmaster
+
+:::
+
+::: person-card
+
+![](https://avatars.githubusercontent.com/u/8617595?v=4)
+
+### Elio Campitelli
+
+Social media
+
+:::
+
+
+::: person-card
+
+![](https://wombat2025.numbat.space/about/committee/img/maliny.jpeg)
+
+### Maliny Po
+
+Marketing and Graphics
+
+:::
+
+
+::: person-card
+
+![](https://numbat.space/people/current/anukarnsakulchularp-krisanat/avatar.png)
+
+### Krisanat Anukarnsakulchularp
+
+Volunteer lead
+
+:::
+
+:::

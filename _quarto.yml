@@ -1,0 +1,12 @@
+project:
+  type: website
+  resources:
+    - "anim"
+
+website:
+  title: "WOMBAT 2025"
+  description: "Workshop Organised by the Monash Business Analytics Team"
+
+
+editor: visual
+
