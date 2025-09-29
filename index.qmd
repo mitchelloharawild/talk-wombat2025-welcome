@@ -99,7 +99,6 @@ Email the committee: <buseco-ebs.wombat@monash.edu>
 
 ![](backgrounds/michael-jerrard-mnHs4boXT_0-unsplash.jpg){.image-left}
 
-
 ## {}
 
 ::: columns
@@ -394,7 +393,7 @@ Adding uncertainty representation in a data visualisation can help in decision-m
 ::: {.callout appearance="default"}
 ## In conversation: Research Software
 
-Research software engineering, open source software, reproducibility research -- what do these terms really mean, and what's special about creating 'statistical software' and R packages? In this conversation with Professor Rob Hyndman, and Dr. Nick Tierney, we attempt to demystify and highlight many ways that software design and open source packages can contribute to the development, dissemination and accessibility of data-driven analysis.
+Research software engineering, open source software, reproducibile research -- what do these terms really mean, and what's special about creating 'statistical software' and R packages? In this conversation with Professor Rob Hyndman, and Dr. Nick Tierney, we attempt to demystify and highlight many ways that software design and open source packages can contribute to the development, dissemination and accessibility of data-driven analysis.
 
 :::
 :::
@@ -532,86 +531,6 @@ In this session I'll be talking about:
 *  using the development as an opportunity to upskill my team
 
 :::
-:::
-
-:::
-
-<!-- CH: Closing discussion slides -->
-
-## Organising Committee
-
-::: persons
-
-::: person-card
-
-![](https://avatars.githubusercontent.com/u/29718979?v=4)
-
-### Cynthia Huang
-
-General chair (workshop)
-
-:::
-
-::: {.person-card}
-
-![](https://avatars.githubusercontent.com/u/16127127?v=4)
-
-### Mitchell O'Hara-Wild
-
-General chair (tutorials)
-
-:::
-
-::: person-card
-
-![](https://avatars.githubusercontent.com/u/56960311?v=4)
-
-### Hannah Comiskey
-
-Visitor logistics
-
-:::
-
-::: person-card
-
-![](https://avatars.githubusercontent.com/u/8599256?v=4)
-
-### Janith Wanniarachchi
-
-Webmaster
-
-:::
-
-::: person-card
-
-![](https://avatars.githubusercontent.com/u/8617595?v=4)
-
-### Elio Campitelli
-
-Social media
-
-:::
-
-
-::: person-card
-
-![](https://wombat2025.numbat.space/about/committee/img/maliny.jpeg)
-
-### Maliny Po
-
-Marketing and Graphics
-
-:::
-
-
-::: person-card
-
-![](https://numbat.space/people/current/anukarnsakulchularp-krisanat/avatar.png)
-
-### Krisanat Anukarnsakulchularp
-
-Volunteer lead
-
 :::
 
 :::
