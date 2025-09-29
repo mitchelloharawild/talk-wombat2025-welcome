@@ -126,6 +126,9 @@ Share your experience online with hashtag `#WOMBAT2025`
 ## 🌐 Workshop Recordings
 
 <!-- MOW: where & when can people get notified? -->
+Recordings from today will be published on YouTube.
+
+We'll share them on our website and social media channels (`#WOMBAT2025`) when they're ready to watch!
 :::
 
 ::: {.callout-tip .fragment .fade-up icon="false"}
