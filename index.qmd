@@ -236,6 +236,9 @@ Get online with:
 
 ![](backgrounds/michael-jerrard-mnHs4boXT_0-unsplash.jpg){.image-left}
 
+
+## {background-iframe="https://wombat2025.numbat.space/program/schedule/"}
+
 ## {}
 
 ::: columns
@@ -259,9 +262,6 @@ We've reserved the roof top loft area.
 :::
 
 ![](backgrounds/michael-jerrard-mnHs4boXT_0-unsplash.jpg){.image-left}
-
-
-## {background-iframe="https://wombat2025.numbat.space/program/schedule/"}
 
 
 ## {.presentation background-iframe="anim/particles.html"}
