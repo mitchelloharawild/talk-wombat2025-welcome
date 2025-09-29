@@ -99,9 +99,69 @@ Email the committee: <buseco-ebs.wombat@monash.edu>
 
 ![](backgrounds/michael-jerrard-mnHs4boXT_0-unsplash.jpg){.image-left}
 
-## {}
+## Organising Committee
 
-::: columns
+:::::::::: persons
+::: person-card
+![](https://avatars.githubusercontent.com/u/29718979?v=4)
+
+### Cynthia Huang
+
+General chair (workshop)
+:::
+
+::: person-card
+![](https://avatars.githubusercontent.com/u/16127127?v=4)
+
+### Mitchell O'Hara-Wild
+
+General chair (tutorials)
+:::
+
+::: person-card
+![](https://avatars.githubusercontent.com/u/56960311?v=4)
+
+### Hannah Comiskey
+
+Visitor logistics
+:::
+
+::: person-card
+![](https://avatars.githubusercontent.com/u/8599256?v=4)
+
+### Janith Wanniarachchi
+
+Webmaster
+:::
+
+::: person-card
+![](https://avatars.githubusercontent.com/u/8617595?v=4)
+
+### Elio Campitelli
+
+Social media
+:::
+
+::: person-card
+![](https://wombat2025.numbat.space/about/committee/img/maliny.jpeg)
+
+### Maliny Po
+
+Marketing and Graphics
+:::
+
+::: person-card
+![](https://numbat.space/people/current/anukarnsakulchularp-krisanat/avatar.png)
+
+### Krisanat Anukarnsakulchularp
+
+Volunteer lead
+:::
+::::::::::
+
+## 
+
+:::::::: columns
 ::: {.column width="40%"}
 :::
 ::: {.column width="60%"}
@@ -153,6 +213,12 @@ Opt-out by adding a red dot to your name tag.
 See the schedule, speakers, and more online.
 
 <https://wombat2025.numbat.space/>
+:::
+
+::: {.callout-tip .fragment .fade-up icon="false"}
+## 🍻 Post-Workshop Social Hour
+
+5.15PM onwards at [State of Grace](https://stateofgracemelbourne.com.au/), _27 King St, Melbourne 3000_
 :::
 
 ::: {.callout-tip .fragment .fade-up icon="false"}
