@@ -1,0 +1,139 @@
+---
+from: markdown+emoji
+execute: 
+  cache: true
+format: 
+  letterbox-revealjs:
+    theme: custom.scss
+    progress: false
+    menu: false
+    width: 1280
+    height: 720
+    preload-iframes: true
+filters:
+  - custom-callouts
+callout-appearance: simple
+editor_options: 
+  chunk_output_type: console
+---
+
+
+```{r}
+#| include: false
+```
+
+##  {background-image="resources/title.png" background-size="cover" background-repeat="no-repeat"}
+
+<!--- Closing discussion // 10min -->
+
+## {}
+
+:::::::: columns
+::: {.column width="40%"}
+:::
+
+:::::: {.column width="60%"}
+### Closing Discussion
+
+::: incremental
+
+-   What is one idea, tool or tip you plan to use?
+-   What is something surprising you've learnt?
+-   Have you discovered new ways of integrating design & data science?
+:::
+
+::::::
+::::::::
+
+![](backgrounds/michael-jerrard-mnHs4boXT_0-unsplash.jpg){.image-left}
+
+<!--- other community ideas -->
+
+## {}
+
+::::::: columns
+::: {.column width="40%"}
+:::
+
+::::: {.column width="60%"}
+### Want more? 🎁
+
+::: incremental
+-   [SSA Vic & Tas](https://www.statsoc.org.au/Victoria)
+-   [R-Ladies Melbourne](https://r-ladiesmelbourne.github.io/)
+-   [Melbourne Users of R Network](https://www.meetup.com/melburn-melbourne-users-of-r-network/)
+:::
+
+::: {.callout-important .fragment .fade-up}
+## Upcoming events
+
+-   [R Dev Day - 20 Nov, 2025](https://www.meetup.com/r-contributors/events/310847251/)
+-   [OceaniaR Hackathon - 23 Nov, 2025](https://statsocaus.github.io/oceaniar-hack-2025/)
+:::
+:::::
+:::::::
+
+![](backgrounds/michael-jerrard-mnHs4boXT_0-unsplash.jpg){.image-left}
+
+##  {background-image="backgrounds/monash-uni.png" background-size="cover" background-repeat="no-repeat"}
+
+::: {style="margin: 5em 0 0 0"}
+-   [NUMBATs Workshops](https://numbat.space/workshops/)
+-   [Business Analytics Courses](https://numbat.space/courses.html)
+    -   Bachelor of Commerce (Business Analytics)
+    -   Master of Business Analytics (MBAt)
+-   [MBAt Internships](https://drive.google.com/file/d/1-9V1_6rL6zBJdyxWlRYOCnWpFvzHfJUO/view)
+:::
+
+## 
+
+::::::: columns
+::: {.column width="40%"}
+:::
+
+::::: {.column width="60%"}
+
+### Thank you!
+
+::: incremental
+-   7 committee members
+-   20 presenters & instructors :speaking_head:
+-   7 tutorials :technologist:
+-   10 invited talks :microphone:
+-   xx attendees over 2 days :wave:
+:::
+:::::
+:::::::
+
+![](backgrounds/michael-jerrard-mnHs4boXT_0-unsplash.jpg){.image-left}
+
+## 
+
+::::::: columns
+::: {.column width="40%"}
+:::
+
+::::: {.column width="60%"}
+### Final Remarks
+
+::: {.callout-tip .fragment .fade-up icon="false"}
+### #️⃣ Hashtag #WOMBAT2025
+
+Share your experience online with hashtag `#WOMBAT2025`
+:::
+
+::: {.callout-note .fragment .fade-up icon="false"}
+## 🌐 Workshop Recordings
+
+<!-- MOW: where & when can people get notified? -->
+:::
+
+::: {.callout-tip .fragment .fade-up icon="false"}
+## 🍻 Post-Workshop Social Hour
+
+5.15PM onwards at [State of Grace](https://stateofgracemelbourne.com.au/), *27 King St, Melbourne 3000*
+:::
+:::::
+:::::::
+
+![](backgrounds/michael-jerrard-mnHs4boXT_0-unsplash.jpg){.image-left}
