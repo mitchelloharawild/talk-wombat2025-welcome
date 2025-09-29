@@ -600,3 +600,5 @@ In this session I'll be talking about:
 :::
 
 :::
+
+{{< include closing.qmd >}}
