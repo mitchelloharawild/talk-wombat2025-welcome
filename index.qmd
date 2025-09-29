@@ -70,7 +70,11 @@ We pay our respects to Elders past and present, and recognise their continuing c
 ::: {.callout-important .fragment .fade-up}
 ## Evacutation procedure
 
-TBC
+🚨 "Woop woop woop - evacuate now" 🚨
+
+Use the stairs beside the lifts to reach the lobby.
+
+Assembly point is the park to the west.
 :::
 
 ::: {.callout-note .fragment .fade-up}
@@ -216,12 +220,6 @@ See the schedule, speakers, and more online.
 :::
 
 ::: {.callout-tip .fragment .fade-up icon="false"}
-## 🍻 Post-Workshop Social Hour
-
-5.15PM onwards at [State of Grace](https://stateofgracemelbourne.com.au/), _27 King St, Melbourne 3000_
-:::
-
-::: {.callout-tip .fragment .fade-up icon="false"}
 ## 🛜 Wi-Fi access
 
 Get online with:
@@ -232,6 +230,30 @@ Get online with:
 <https://www.monash.edu/esolutions/network/guest-wi-fi>
 :::
 
+
+:::
+:::
+
+![](backgrounds/michael-jerrard-mnHs4boXT_0-unsplash.jpg){.image-left}
+
+## {}
+
+::: columns
+::: {.column width="40%"}
+:::
+::: {.column width="60%"}
+
+### 🍻 Post-Workshop Social Hour
+
+🕰️ 5:15PM onwards
+
+📍 [State of Grace](https://stateofgracemelbourne.com.au/), _27 King St, Melbourne 3000_
+
+Open invitation, come and go as you please!
+
+We've reserved the roof top loft area.
+
+![](resources/bar.png){height="400px", fig-align="center"}
 
 :::
 :::
@@ -269,36 +291,6 @@ Data visualisation can be a very efficient method of identifying patterns in dat
 :::
 
 :::
-
-
-## {.presentation background-iframe="anim/particles.html"}
-
-::: {.columns .talk}
-
-::: {.column width="40%"}
-
-::: {.presenter}
-
-![](https://conf.nectric.com.au/media/avatars/QYGAW3_P1qrP6C.jpg)
-
-Nicola Rennie
-
-:::
-
-:::
-
-::: {.column width="60%"}
-
-::: {.callout appearance="default"}
-## Designing for decision-making: How to build effective data visualisations
-
-Data visualisation can be a very efficient method of identifying patterns in data and communicating findings to broad audiences. Good data visualisation requires appreciation and careful consideration of the technical aspects of data presentation. But it also involves a creative element. Authorial choices are made about the “story” we want to tell, and design decisions are driven by the need to convey that story most effectively to our audience. Software systems use default settings for most graphical elements. However, each visualisation has its own story to tell, and so we must actively consider and choose settings for the visualisation we are building. In this talk, Nicola will showcase why you should visualise data, present some guidelines for making more effective charts, before discussing examples of good and not so good charts.
-
-:::
-:::
-
-:::
-
 
 ## {.presentation background-iframe="anim/particles.html"}
 
