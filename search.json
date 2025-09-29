@@ -11,7 +11,14 @@
     "href": "index.html#section-2",
     "title": "WOMBAT 2025",
     "section": "",
-    "text": "Safety 🛟\n\n\n\n\n\n\n\nEvacutation procedure\n\n\nTBC\n\n\n\n\n\n\n\n\n\n\n\nCode of Conduct (CoC)\n\n\nIn short: be kind, respectful, and considerate.\n(full code of conduct is available on our website)\nAlert the CoC response team of any issues 👋\n\n\n\n\n\n\n\n\n\n\n\nGetting help\n\n\nOrganisers are here to help!\nIdentify organisers with green dots on their name tag.\nEmail the committee: buseco-ebs.wombat@monash.edu"
+    "text": "Safety 🛟\n\n\n\n\n\n\n\nEvacutation procedure\n\n\n🚨 “Woop woop woop - evacuate now” 🚨\nUse the stairs beside the lifts to reach the lobby.\nAssembly point is the park to the west.\n\n\n\n\n\n\n\n\n\n\n\nCode of Conduct (CoC)\n\n\nIn short: be kind, respectful, and considerate.\n(full code of conduct is available on our website)\nAlert the CoC response team of any issues 👋\n\n\n\n\n\n\n\n\n\n\n\nGetting help\n\n\nOrganisers are here to help!\nIdentify organisers with green dots on their name tag.\nEmail the committee: buseco-ebs.wombat@monash.edu"
+  },
+  {
+    "objectID": "index.html#organising-committee",
+    "href": "index.html#organising-committee",
+    "title": "WOMBAT 2025",
+    "section": "Organising Committee",
+    "text": "Organising Committee\n\n\n\nCynthia Huang\nGeneral chair (workshop)\n\n\n\nMitchell O’Hara-Wild\nGeneral chair (tutorials)\n\n\n\nHannah Comiskey\nVisitor logistics\n\n\n\nJanith Wanniarachchi\nWebmaster\n\n\n\nElio Campitelli\nSocial media\n\n\n\nMaliny Po\nMarketing and Graphics\n\n\n\nKrisanat Anukarnsakulchularp\nVolunteer lead"
   },
   {
     "objectID": "index.html#section-3",
@@ -32,7 +39,7 @@
     "href": "index.html#section-6",
     "title": "WOMBAT 2025",
     "section": "",
-    "text": "Nicola Rennie\n\n\n\n\n\nDesigning for decision-making: How to build effective data visualisations\n\n\nData visualisation can be a very efficient method of identifying patterns in data and communicating findings to broad audiences. Good data visualisation requires appreciation and careful consideration of the technical aspects of data presentation. But it also involves a creative element. Authorial choices are made about the “story” we want to tell, and design decisions are driven by the need to convey that story most effectively to our audience. Software systems use default settings for most graphical elements. However, each visualisation has its own story to tell, and so we must actively consider and choose settings for the visualisation we are building. In this talk, Nicola will showcase why you should visualise data, present some guidelines for making more effective charts, before discussing examples of good and not so good charts."
+    "text": "🍻 Post-Workshop Social Hour\n🕰️ 5:15PM onwards\n📍 State of Grace, 27 King St, Melbourne 3000\nOpen invitation, come and go as you please!\nWe’ve reserved the roof top loft area.\n{height=“400px”, fig-align=“center”}"
   },
   {
     "objectID": "index.html#section-7",
@@ -81,7 +88,7 @@
     "href": "index.html#section-13",
     "title": "WOMBAT 2025",
     "section": "",
-    "text": "In conversation: Research Software\n\n\nResearch software engineering, open source software, reproducibility research – what do these terms really mean, and what’s special about creating ‘statistical software’ and R packages? In this conversation with Professor Rob Hyndman, and Dr. Nick Tierney, we attempt to demystify and highlight many ways that software design and open source packages can contribute to the development, dissemination and accessibility of data-driven analysis.\n\n\n\n\n\n\n\nCynthia Huang\nHost\n\n\n\nRob Hyndman\nSpeaker\n\n\n\nNicholas Tierney\nSpeaker"
+    "text": "In conversation: Research Software\n\n\nResearch software engineering, open source software, reproducibile research – what do these terms really mean, and what’s special about creating ‘statistical software’ and R packages? In this conversation with Professor Rob Hyndman, and Dr. Nick Tierney, we attempt to demystify and highlight many ways that software design and open source packages can contribute to the development, dissemination and accessibility of data-driven analysis.\n\n\n\n\n\n\n\nCynthia Huang\nHost\n\n\n\nRob Hyndman\nSpeaker\n\n\n\nNicholas Tierney\nSpeaker"
   },
   {
     "objectID": "index.html#section-14",
@@ -105,10 +112,73 @@
     "text": "Ben Harrap\n\n\n\n\n\nDesigning data infrastructure where people come first\n\n\nThe Mayi Kuwayu Study is a longitudinal survey and the largest national study of Aboriginal and Torres Strait Islander culture, health and wellbeing. I joined the study team last year and have been redeveloping the data pipeline to be more transparent, reproducible, and easier to maintain. My original plan was to incorporate best practices, such as using targets and renv for ensuring reproducibility and pointblank and testthat for validation and testing, as well as writing nice code.\nIt was a good plan, but it didn’t fully consider the people in the study team. Being able to run code from start to finish without error might be reproducible in a technical sense, but is someone actually reproducing it if they don’t understand what the code is doing? Code is only reproducible so long as it’s maintainable. Since I’m the only experienced R-user (for now), each additional package I use is a package someone else has to understand and runs the risk of making the code less reproducible.\nIn this session I’ll be talking about:\n\nthe Mayi Kuwayu Study and team context\ndevelopment of the data pipeline\nthe role people played in design decisions\nusing the development as an opportunity to upskill my team"
   },
   {
-    "objectID": "index.html#organising-committee",
-    "href": "index.html#organising-committee",
+    "objectID": "index.html#section-18",
+    "href": "index.html#section-18",
     "title": "WOMBAT 2025",
-    "section": "Organising Committee",
-    "text": "Organising Committee\n\n\n\nCynthia Huang\nGeneral chair (workshop)\n\n\n\nMitchell O’Hara-Wild\nGeneral chair (tutorials)\n\n\n\nHannah Comiskey\nVisitor logistics\n\n\n\nJanith Wanniarachchi\nWebmaster\n\n\n\nElio Campitelli\nSocial media\n\n\n\nMaliny Po\nMarketing and Graphics\n\n\n\nKrisanat Anukarnsakulchularp\nVolunteer lead"
+    "section": "",
+    "text": "Closing Discussion\n\nWhat is one idea, tool or tip you plan to use?\nWhat is something surprising you’ve learnt?\nHave you discovered new ways of integrating design & data science?"
+  },
+  {
+    "objectID": "index.html#section-19",
+    "href": "index.html#section-19",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Want more? 🎁\n\nSSA Vic & Tas\nR-Ladies Melbourne\nMelbourne Users of R Network\n\n\n\n\n\n\n\n\nUpcoming events\n\n\n\nR Dev Day - 20 Nov, 2025\nOceaniaR Hackathon - 23 Nov, 2025"
+  },
+  {
+    "objectID": "index.html#section-20",
+    "href": "index.html#section-20",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "NUMBATs Workshops\nBusiness Analytics Courses\n\nBachelor of Commerce (Business Analytics)\nMaster of Business Analytics (MBAt)\n\nMBAt Internships"
+  },
+  {
+    "objectID": "index.html#section-21",
+    "href": "index.html#section-21",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Thank you!\n\n7 committee members\n20 presenters & instructors 🗣️\n7 tutorials 🧑‍💻\n10 invited talks 🎤\nxx attendees over 2 days 👋"
+  },
+  {
+    "objectID": "index.html#section-22",
+    "href": "index.html#section-22",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Final Remarks\n\n\n\n\n#️⃣ Hashtag #WOMBAT2025\n\n\nShare your experience online with hashtag #WOMBAT2025\n\n\n\n\n\n\n\n\n🌐 Workshop Recordings\n\n\n\nRecordings from today will be published on YouTube.\nWe’ll share them on our website and social media channels (#WOMBAT2025) when they’re ready to watch!\n\n\n\n\n\n\n\n\n🍻 Post-Workshop Social Hour\n\n\n5.15PM onwards at State of Grace, 27 King St, Melbourne 3000"
+  },
+  {
+    "objectID": "closing.html#section-1",
+    "href": "closing.html#section-1",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Closing Discussion\n\nWhat is one idea, tool or tip you plan to use?\nWhat is something surprising you’ve learnt?\nHave you discovered new ways of integrating design & data science?"
+  },
+  {
+    "objectID": "closing.html#section-2",
+    "href": "closing.html#section-2",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Want more? 🎁\n\nSSA Vic & Tas\nR-Ladies Melbourne\nMelbourne Users of R Network\n\n\n\n\n\n\n\n\nUpcoming events\n\n\n\nR Dev Day - 20 Nov, 2025\nOceaniaR Hackathon - 23 Nov, 2025"
+  },
+  {
+    "objectID": "closing.html#section-3",
+    "href": "closing.html#section-3",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "NUMBATs Workshops\nBusiness Analytics Courses\n\nBachelor of Commerce (Business Analytics)\nMaster of Business Analytics (MBAt)\n\nMBAt Internships"
+  },
+  {
+    "objectID": "closing.html#section-4",
+    "href": "closing.html#section-4",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Thank you!\n\n7 committee members\n20 presenters & instructors 🗣️\n7 tutorials 🧑‍💻\n10 invited talks 🎤\nxx attendees over 2 days 👋"
+  },
+  {
+    "objectID": "closing.html#section-5",
+    "href": "closing.html#section-5",
+    "title": "WOMBAT 2025",
+    "section": "",
+    "text": "Final Remarks\n\n\n\n\n#️⃣ Hashtag #WOMBAT2025\n\n\nShare your experience online with hashtag #WOMBAT2025\n\n\n\n\n\n\n\n\n🌐 Workshop Recordings\n\n\n\nRecordings from today will be published on YouTube.\nWe’ll share them on our website and social media channels (#WOMBAT2025) when they’re ready to watch!\n\n\n\n\n\n\n\n\n🍻 Post-Workshop Social Hour\n\n\n5.15PM onwards at State of Grace, 27 King St, Melbourne 3000"
   }
 ]
