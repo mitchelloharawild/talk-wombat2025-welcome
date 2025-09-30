@@ -85,6 +85,36 @@ editor_options:
 -   [MBAt Internships](https://drive.google.com/file/d/1-9V1_6rL6zBJdyxWlRYOCnWpFvzHfJUO/view)
 :::
 
+## Internship project examples
+
+*Exploring and interpreting data*
+
+-   How does air quality affect blood donations? -- **Red Cross Lifeblood**
+-   What factors lead to unhappy customers? -- **Waterman**
+-   Analysis of member surveys -- **Heritage New Zealand Pouhere Taonga**
+
+## Internship project examples
+
+*Modelling / Forecasting*
+
+-   Forecasting stamp duty payments -- **Department of Treasury & Finance**
+-   Optimising patient allocations -- **Monash Health**
+-   Biodiversity impact of 2019/20 bushfires -- **Vic. National Parks Association**
+
+## Internship project examples
+
+*Automation and tools*
+
+-   Quarterly reporting for business partners -- **AIA (insurance company)**
+-   Membership engagement dashboards -- **Educate Plus**
+-   Tennis racquet recommendation system -- **Tennis Australia**
+
+## Want to host a project?
+
+-   [Info for hosts](https://drive.google.com/file/d/1-9V1_6rL6zBJdyxWlRYOCnWpFvzHfJUO/view) ($\leftarrow$ follow this link)
+
+-   Contact me: [damjan.vukcevic\@monash.edu](mailto:damjan.vukcevic@monash.edu){.email}
+
 ## 
 
 ::::::: columns
