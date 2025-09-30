@@ -126,11 +126,12 @@ editor_options:
 ### Thank you!
 
 ::: incremental
--   7 committee members
 -   20 presenters & instructors :speaking_head:
 -   7 tutorials :technologist:
 -   10 invited talks :microphone:
--   xx attendees over 2 days :wave:
+-   ~85 attendees over 2 days :wave:
+-   7 committee members
+-   lots of support from Monash EBS
 :::
 :::::
 :::::::
