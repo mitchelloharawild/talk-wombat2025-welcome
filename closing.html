@@ -6,9 +6,9 @@
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-contrib/custom-callouts-0.1.0/custom-callouts.scss" rel="stylesheet"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.7.32">
+  <meta name="generator" content="quarto-1.8.24">
 
   <title>WOMBAT 2025 – closing</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -29,7 +29,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-d1417b56cbe00eda456ae7ba31fcae5f.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-4f40346e4638297a47335da2913e79f4.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -236,11 +236,12 @@
 </div><div class="column" style="width:60%;">
 <h3 id="thank-you">Thank you!</h3>
 <ul>
-<li class="fragment">7 committee members</li>
 <li class="fragment">20 presenters &amp; instructors <span class="emoji" data-emoji="speaking_head">🗣️</span></li>
 <li class="fragment">7 tutorials <span class="emoji" data-emoji="technologist">🧑‍💻</span></li>
 <li class="fragment">10 invited talks <span class="emoji" data-emoji="microphone">🎤</span></li>
-<li class="fragment">xx attendees over 2 days <span class="emoji" data-emoji="wave">👋</span></li>
+<li class="fragment">~85 attendees over 2 days <span class="emoji" data-emoji="wave">👋</span></li>
+<li class="fragment">7 committee members</li>
+<li class="fragment">lots of support from Monash EBS</li>
 </ul>
 </div></div>
 
@@ -484,7 +485,7 @@
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -732,13 +733,14 @@
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-            const codeEl = trigger.previousElementSibling.cloneNode(true);
-            for (const childEl of codeEl.children) {
-              if (isCodeAnnotation(childEl)) {
-                childEl.remove();
-              }
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
             }
-            return codeEl.innerText;
+          }
+          return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy
